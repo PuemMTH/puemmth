@@ -1,6 +1,6 @@
 Profile:
 
-<table align="">
+<table align="center">
    <tr>
     <td align="center">
         <a href="https://github.com/PuemMTH">
