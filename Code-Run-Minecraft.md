@@ -2,6 +2,6 @@
 
 ```cmd
 @echo off
-java -Xms5G -Xmx5G -jar forge-1.16.5-36.2.6.jar nogui
+java -Xms5G -Xmx5G -jar [Name Forge].jar nogui
 pause
 ```
