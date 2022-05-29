@@ -5,8 +5,9 @@ Support Me :
 
 <details><summary><strong>Skill Lang</strong></summary>
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=puemmth&layout=compact&langs_count=10&hide_border=true&custom_title=Languages&bg_color=fff)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=puemmth&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=puemmth&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
  </details>
 (https://github.com/PuemMTH/)
