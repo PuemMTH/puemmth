@@ -117,10 +117,10 @@ Support Me :
     </tr>
     <tr>
         <td>
-            C++
+            C
         </td>
         <td>
-            Learn C++
+            Learn C
         </td>
         <td>
             <a href="https://github.com/PuemMTH/beginner-c">Github</a>
