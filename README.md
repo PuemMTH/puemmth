@@ -83,7 +83,7 @@ Support Me :
 </details>
 
 
-<details><summary><strong>Learning Lang </strong></summary>
+<details><summary><strong>Learning Skills</strong></summary>
 
 
 <!-- List Projact tag li lu table-->
@@ -148,8 +148,28 @@ Support Me :
             <a href="https://github.com/PuemMTH/NodeJS-JWT-Simple">Github</a>
         </td>
     </tr>
-    
-    
+    <tr>
+        <td>
+            VueJS 3
+        </td>
+        <td>
+            VueJS Couple with Tailwindcss
+        </td>
+        <td>
+            <a href="https://github.com/PuemMTH/vue3-tailwindcss">Github</a>
+        </td>
+    </tr>
+        <tr>
+        <td>
+            Dowloader
+        </td>
+        <td>
+            Dowloader image from yande.re
+        </td>
+        <td>
+            <a href="https://github.com/PuemMTH/Downloader-Yande.re">Github</a>
+        </td>
+    </tr>
 </table>
 
 </details>
