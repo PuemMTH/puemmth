@@ -1,177 +1,24 @@
-Support Me :
+## Hi, I'm Tanapat (Puem)
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/puemmth)
+### Tech Stack
 
+| Category | Technologies |
+|---|---|
+| Backend | Python, FastAPI, Go, PostgreSQL, MySQL, RabbitMQ |
+| Frontend & Desktop | React, SolidJS, Tauri, Flutter, TypeScript |
+| Infra & Tools | Docker, Kubernetes, GitLab CI/CD, Kong, Linux, HPC |
+| AI/ML | YOLO, ONNX Runtime, EasyOCR, SAM, OpenCV |
 
-<details><summary><strong>Skill Lang</strong></summary>
+### What I Do
 
+- Medical AI desktop applications with Tauri + SolidJS
+- Computer vision pipelines — object detection, segmentation, OCR
+- Backend services & microservices with FastAPI, Go, RabbitMQ
+- Container orchestration & CI/CD automation
+- ONNX model inference integration for real-time analysis
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=puemmth&layout=compact&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+### Open Source
 
-
-</details>
-
-<details><summary><strong>Project</strong></summary>
-
-
-<!-- List Projact tag li lu table-->
-<table>
-    <tr>
-        <th>Project</th>
-        <th>Description</th>
-        <th>Link</th>
-        <th>Lang</th>
-    </tr>
-    <tr>
-        <td>
-            Bot Discord
-        </td>
-        <td>
-            All in one bot for discord
-        </td>
-        <td>
-            <a href="https://github.com/PuemMTH/discord-bot-ts">Github</a>
-        </td>
-        <td>
-            TypeScript
-        </td>
-    </tr>
-    <tr>
-        <td>
-            Canvas image
-        </td>
-        <td>
-            Generate image from text
-        </td>
-        <td>
-            <a href="https://github.com/PuemMTH/Canvas-Image">Github</a>
-        </td>
-        <td>
-            TypeScript
-        </td>
-    </tr>
-    <tr>
-        <td>
-            Dictionary
-        </td>
-        <td>
-            C# Program to search word in dictionary
-        </td>
-        <td>
-            <a href="https://github.com/PuemMTH/Dictionary-CSharp">Github</a>
-        </td>
-        <td>
-            C#
-        </td>
-    </tr>
-    <tr>
-        <td>
-            Web Search Anime
-        </td>
-        <td>
-            Search anime from web
-        </td>
-        <td>
-            <a href="https://github.com/PuemMTH/WebServer">Github</a>
-        </td>
-        <td>
-            JavaScript
-        </td>
-    </tr>
-</table>
-
-</details>
-
-
-<details><summary><strong>Learning Skills</strong></summary>
-
-
-<!-- List Projact tag li lu table-->
-<table>
-    <tr>
-        <th>Lang</th>
-        <th>Description</th>
-        <th>Link</th>
-    </tr>
-    <tr>
-        <td>
-            Java
-        </td>
-        <td>
-            Learn Java
-        </td>
-        <td>
-            <a href="https://github.com/PuemMTH/Java">Github</a>
-        </td>
-    </tr>
-    <tr>
-        <td>
-            TypeScript 
-        </td>
-        <td>
-            Learn TypeScript 
-        </td>
-        <td>
-            <a href="https://github.com/PuemMTH/TypeScript">Github</a>
-        </td>
-    </tr>
-    <tr>
-        <td>
-            C
-        </td>
-        <td>
-            Learn C
-        </td>
-        <td>
-            <a href="https://github.com/PuemMTH/beginner-c">Github</a>
-        </td>
-    </tr>
-    <tr>
-        <td>
-            NodeJS
-        </td>
-        <td>
-            Package Express
-        </td>
-        <td>
-            <a href="https://github.com/PuemMTH/express-learning">Github</a>
-        </td>
-    </tr>
-    <tr>
-        <td>
-            NodeJS
-        </td>
-        <td>
-            Json Web Token (JWT)
-        </td>
-        <td>
-            <a href="https://github.com/PuemMTH/NodeJS-JWT-Simple">Github</a>
-        </td>
-    </tr>
-    <tr>
-        <td>
-            VueJS 3
-        </td>
-        <td>
-            VueJS Couple with Tailwindcss
-        </td>
-        <td>
-            <a href="https://github.com/PuemMTH/vue3-tailwindcss">Github</a>
-        </td>
-    </tr>
-        <tr>
-        <td>
-            Dowloader
-        </td>
-        <td>
-            Dowloader image from yande.re
-        </td>
-        <td>
-            <a href="https://github.com/PuemMTH/Downloader-Yande.re">Github</a>
-        </td>
-    </tr>
-</table>
-
-</details>
-
-(https://github.com/PuemMTH/)
+| Project | Description | Tech |
+|---|---|---|
+| [Video Labeling Tool](https://github.com/PuemMTH/video-labeling-tool) | Desktop app for video event labeling with frame-level scrubbing | Tauri, SolidJS, TypeScript |
